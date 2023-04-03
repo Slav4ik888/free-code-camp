@@ -2,4 +2,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
 
-<!-- git add . && git commit -m "fix error" && git push -u origin main -->
+<!-- git add . && git commit -m "fix error2" && git push -u origin main -->
